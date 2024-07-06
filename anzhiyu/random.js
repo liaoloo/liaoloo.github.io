@@ -1,3 +1,3 @@
-var posts=["2024/07/03/Hexo-anzhiyu-Github博客，启动！/","2024/07/03/hello-world/"];function toRandomPost(){
+var posts=["undefined/undefined/undefined/Hexo-anzhiyu-Github博客，启动！/","undefined/undefined/undefined/hello-world/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
